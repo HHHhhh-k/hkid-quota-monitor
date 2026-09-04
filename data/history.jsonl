@@ -2456,3 +2456,5 @@
 {"type": "quota_open", "office": "RTK", "date": "2026-09-18", "session": "R", "from": "r", "to": "y", "detected_at": "2026-09-04T11:03:01+08:00", "src": "09/04/2026 11:02:54"}
 {"type": "quota_open", "office": "RTK", "date": "2026-09-25", "session": "R", "from": "r", "to": "y", "detected_at": "2026-09-04T11:03:01+08:00", "src": "09/04/2026 11:02:54"}
 {"type": "quota_open", "office": "RHK", "date": "2026-09-25", "session": "R", "from": "r", "to": "y", "detected_at": "2026-09-04T11:22:14+08:00", "src": "09/04/2026 11:18:10"}
+{"type": "quota_open", "office": "RKO", "date": "2026-09-18", "session": "R", "from": "r", "to": "y", "detected_at": "2026-09-04T16:07:09+08:00", "src": "09/04/2026 16:07:07"}
+{"type": "quota_open", "office": "RKO", "date": "2026-09-25", "session": "R", "from": "r", "to": "g", "detected_at": "2026-09-04T16:07:09+08:00", "src": "09/04/2026 16:07:07"}
