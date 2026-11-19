@@ -1,113 +1,23 @@
 {
- "generated_at": "2026-11-20T00:54:50+08:00",
+ "generated_at": "2026-11-20T07:19:53+08:00",
  "events": [
   {
-   "type": "new_date",
+   "type": "quota_gone",
    "office": "FTO",
-   "date": "2027-03-19",
-   "session": "R",
-   "from": null,
-   "to": "g",
-   "detected_at": "2026-11-20T00:54:59+08:00"
-  },
-  {
-   "type": "quota_gone",
-   "office": "RHK",
-   "date": "2027-01-23",
+   "date": "2026-12-22",
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-11-20T00:54:59+08:00"
-  },
-  {
-   "type": "new_date",
-   "office": "RHK",
-   "date": "2027-03-19",
-   "session": "R",
-   "from": null,
-   "to": "g",
-   "detected_at": "2026-11-20T00:54:59+08:00"
-  },
-  {
-   "type": "quota_open",
-   "office": "RKO",
-   "date": "2026-12-08",
-   "session": "R",
-   "from": "r",
-   "to": "y",
-   "detected_at": "2026-11-20T00:54:59+08:00"
-  },
-  {
-   "type": "quota_open",
-   "office": "RKO",
-   "date": "2026-12-09",
-   "session": "R",
-   "from": "r",
-   "to": "y",
-   "detected_at": "2026-11-20T00:54:59+08:00"
+   "detected_at": "2026-11-20T07:19:55+08:00"
   },
   {
    "type": "quota_gone",
-   "office": "RKO",
-   "date": "2027-01-16",
+   "office": "FTO",
+   "date": "2026-12-23",
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-11-20T00:54:59+08:00"
-  },
-  {
-   "type": "new_date",
-   "office": "RKO",
-   "date": "2027-03-19",
-   "session": "R",
-   "from": null,
-   "to": "g",
-   "detected_at": "2026-11-20T00:54:59+08:00"
-  },
-  {
-   "type": "new_date",
-   "office": "RTK",
-   "date": "2027-03-19",
-   "session": "R",
-   "from": null,
-   "to": "g",
-   "detected_at": "2026-11-20T00:54:59+08:00"
-  },
-  {
-   "type": "quota_gone",
-   "office": "TMO",
-   "date": "2026-12-24",
-   "session": "R",
-   "from": "y",
-   "to": "r",
-   "detected_at": "2026-11-20T00:54:59+08:00"
-  },
-  {
-   "type": "quota_gone",
-   "office": "TMO",
-   "date": "2026-12-28",
-   "session": "R",
-   "from": "y",
-   "to": "r",
-   "detected_at": "2026-11-20T00:54:59+08:00"
-  },
-  {
-   "type": "new_date",
-   "office": "TMO",
-   "date": "2027-03-19",
-   "session": "R",
-   "from": null,
-   "to": "g",
-   "detected_at": "2026-11-20T00:54:59+08:00"
-  },
-  {
-   "type": "new_date",
-   "office": "YLO",
-   "date": "2027-03-19",
-   "session": "R",
-   "from": null,
-   "to": "g",
-   "detected_at": "2026-11-20T00:54:59+08:00"
+   "detected_at": "2026-11-20T07:19:55+08:00"
   }
  ]
 }
