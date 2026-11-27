@@ -1,95 +1,41 @@
 {
- "generated_at": "2026-11-27T05:46:20+08:00",
+ "generated_at": "2026-11-27T11:51:59+08:00",
  "events": [
   {
-   "type": "quota_gone",
-   "office": "FTO",
-   "date": "2026-12-18",
-   "session": "R",
-   "from": "y",
-   "to": "r",
-   "detected_at": "2026-11-27T05:46:29+08:00"
-  },
-  {
-   "type": "new_date",
-   "office": "FTO",
-   "date": "2027-03-30",
-   "session": "R",
-   "from": null,
-   "to": "g",
-   "detected_at": "2026-11-27T05:46:29+08:00"
-  },
-  {
-   "type": "new_date",
+   "type": "quota_open",
    "office": "RHK",
-   "date": "2027-03-30",
+   "date": "2027-01-16",
    "session": "R",
-   "from": null,
-   "to": "g",
-   "detected_at": "2026-11-27T05:46:29+08:00"
+   "from": "r",
+   "to": "y",
+   "detected_at": "2026-11-27T11:52:08+08:00"
   },
   {
-   "type": "new_date",
+   "type": "quota_open",
    "office": "RKO",
-   "date": "2027-03-30",
+   "date": "2027-01-23",
    "session": "R",
-   "from": null,
-   "to": "g",
-   "detected_at": "2026-11-27T05:46:29+08:00"
+   "from": "r",
+   "to": "y",
+   "detected_at": "2026-11-27T11:52:08+08:00"
   },
   {
-   "type": "new_date",
+   "type": "quota_open",
    "office": "RTK",
-   "date": "2027-03-30",
+   "date": "2026-12-21",
    "session": "R",
-   "from": null,
-   "to": "g",
-   "detected_at": "2026-11-27T05:46:29+08:00"
+   "from": "r",
+   "to": "y",
+   "detected_at": "2026-11-27T11:52:08+08:00"
   },
   {
-   "type": "quota_gone",
-   "office": "TMO",
-   "date": "2026-12-30",
-   "session": "R",
-   "from": "y",
-   "to": "r",
-   "detected_at": "2026-11-27T05:46:29+08:00"
-  },
-  {
-   "type": "quota_gone",
-   "office": "TMO",
-   "date": "2027-01-30",
-   "session": "R",
-   "from": "y",
-   "to": "r",
-   "detected_at": "2026-11-27T05:46:29+08:00"
-  },
-  {
-   "type": "new_date",
-   "office": "TMO",
-   "date": "2027-03-30",
-   "session": "R",
-   "from": null,
-   "to": "g",
-   "detected_at": "2026-11-27T05:46:29+08:00"
-  },
-  {
-   "type": "quota_gone",
+   "type": "quota_open",
    "office": "YLO",
    "date": "2026-12-21",
    "session": "R",
-   "from": "y",
-   "to": "r",
-   "detected_at": "2026-11-27T05:46:29+08:00"
-  },
-  {
-   "type": "new_date",
-   "office": "YLO",
-   "date": "2027-03-30",
-   "session": "R",
-   "from": null,
-   "to": "g",
-   "detected_at": "2026-11-27T05:46:29+08:00"
+   "from": "r",
+   "to": "y",
+   "detected_at": "2026-11-27T11:52:08+08:00"
   }
  ]
 }
